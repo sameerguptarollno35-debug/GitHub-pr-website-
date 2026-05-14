@@ -1,0 +1,8 @@
+{
+  "name": "Yasko Dental Hospital",
+  "description": "Premium dental hospital in Sursand, Sitamarhi offering expert dental care, implants, and cosmetic dentistry.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
